@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Mi proyecto se llama "Yanina Rojas Studio" y es la pagina web de una artista y diseñadora gráficac muy talentosa que también es mi amiga. 
 <!--
 **saragutierrezba/saragutierrezba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
